@@ -1,5 +1,5 @@
 # COVID-19 Dataset Analysis
-### Different techniques that can be applied
+### Different techniques applied to the analysis
 
 <img align="center" src="https://cdn.pixabay.com/photo/2020/03/16/16/29/virus-4937553_1280.jpg">
 
