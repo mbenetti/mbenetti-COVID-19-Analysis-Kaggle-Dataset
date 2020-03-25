@@ -26,13 +26,13 @@ This notebook focused in Named Entity Recognition (NER) is an application of Nat
 
 For more information about this package, please visit https://github.com/allenai/scispacy
 
+The most importan configuration models are:
 
-|      Model     |                             Description                            |                                           Install URL                                          |
-|:--------------:|:------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
-| en_core_sci_sm | A full spaCy pipeline for biomedical data with a ~100k vocabulary. | https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.4/en_core_sci_sm-0.2.4.tar.gz |
-
-
-
+|      Model     |                                        Description                                       |
+|:--------------:|:----------------------------------------------------------------------------------------:|
+| en_core_sci_sm |            A full spaCy pipeline for biomedical data with a ~100k vocabulary.            |
+| en_core_sci_md | A full spaCy pipeline for biomedical data with a ~360k vocabulary and 50k word vectors.  |
+| en_core_sci_lg | A full spaCy pipeline for biomedical data with a ~785k vocabulary and 600k word vectors. |
 
 
 ***
