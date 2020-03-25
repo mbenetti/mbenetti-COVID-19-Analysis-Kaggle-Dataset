@@ -7,9 +7,12 @@ Abstract of the repository
   
 ***
 
-<img align="center" width="300" height="200" src="https://cdn.pixabay.com/photo/2020/03/09/14/11/virus-4915859_1280.png">
+<img align="right" width="300" height="200" src="https://cdn.pixabay.com/photo/2020/03/09/14/11/virus-4915859_1280.png">
 
-https://pixabay.com/images/id-1412996/
+# Take part in the CORD-19 Research Challenge
+10 key questions as tasks and 10 ways you can help the world to understand and recover from coronavirus faster. Major AI initiatives and The White House have come together and made available over 44,000 scholarly articles about COVID-19 and related coronaviruses for you to help answer questions the scientific community is asking and win cash prizes. 
+
+https://www.kaggle.com/covid19
 
 ## Versions used for the container
 
