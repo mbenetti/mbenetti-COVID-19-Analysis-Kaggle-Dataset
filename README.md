@@ -32,6 +32,8 @@ The most importan configuration models are:
 | en_core_sci_md | A full spaCy pipeline for biomedical data with a ~360k vocabulary and 50k word vectors.  |
 | en_core_sci_lg | A full spaCy pipeline for biomedical data with a ~785k vocabulary and 600k word vectors. |
 
+Next step, quantitative analysis of the term-document matrix. The following step is build a graph network with the concept and entities in the papers.
+
 
 ***
 
