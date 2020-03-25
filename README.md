@@ -1,5 +1,5 @@
 # COVID-19 Dataset Analysis
-### Collection of different techniques applied to solve the challenge
+### Collection of different notebook and techniques applied to solve the challenges proposed
 
 <img align="center" src="https://cdn.pixabay.com/photo/2020/03/16/16/29/virus-4937553_1280.jpg">
 
