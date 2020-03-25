@@ -15,9 +15,9 @@ Abstract of the repository
 https://www.kaggle.com/covid19
 
 ***
-# Notebook list
+# Notebook list (in progress)
 
-## NER - Named Entity Recognition
+## 01 - NER - Named Entity Recognition
 #### COVID-19 NER - Named Entity Recognition.ipynb 
 <img align="right" width="300" height="200" src="https://blog.vsoftconsulting.com/hubfs/image-43.png">
 
