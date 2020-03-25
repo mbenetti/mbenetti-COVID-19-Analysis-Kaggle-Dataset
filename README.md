@@ -15,15 +15,21 @@ Abstract of the repository
 https://www.kaggle.com/covid19
 
 ## NER - Named Entity Recognition
+#### COVID-19 NER - Named Entity Recognition.ipynb 
 <img align="right" width="300" height="200" src="https://blog.vsoftconsulting.com/hubfs/image-43.png">
-Named Entity Recognition (NER) is an application of Natural Language Processing (NLP) that processes and understands large amounts of unstructured human language. Also known as entity identification, entity chunking and entity extraction. NER extraction is the first step in answering questions, retrieving information and topic modeling. There are many models for implementing NER depending on the application need. Here we compare Spacy pre-trained and Stanford NER models.
+
+
+This notebook focused in Named Entity Recognition (NER) is an application of Natural Language Processing (NLP) that processes and understands large amounts of unstructured human language. Also known as entity identification, entity chunking and entity extraction. NER extraction is the first step in answering questions, retrieving information and topic modelling. There are many models for implementing NER depending on the application need. Here we compare Spacy pre-trained and Stanford NER models.
+
+For more information about this package, please visit https://github.com/allenai/scispacy
+
 
 |      Model     |                             Description                            |                                           Install URL                                          |
 |:--------------:|:------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
 | en_core_sci_sm | A full spaCy pipeline for biomedical data with a ~100k vocabulary. | https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.4/en_core_sci_sm-0.2.4.tar.gz |
 
 
-COVID-19 NER - Named Entity Recognition.ipynb - https://github.com/mbenetti/mbenetti-COVID-19-Analysis-Kaggle-Dataset/blob/master/COVID-19%20NER%20-%20Named%20Entity%20Recognition.ipynb
+
 
 
 ***
