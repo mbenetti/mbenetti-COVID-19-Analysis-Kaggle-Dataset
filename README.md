@@ -1,12 +1,13 @@
-# Topic of the document
-### Description of the document, purpose of the document
+# COVID-19 Dataset Analysis
+### Different techniques that can be applied
 
-<img align="center" src="https://cdn.pixabay.com/photo/2020/03/06/15/08/metro-4907329_1280.jpg">
+<img align="center" src="https://cdn.pixabay.com/photo/2020/03/16/16/29/virus-4937553_1280.jpg">
 
 Abstract of the repository
   
 ***
-<img align="center" width="300" height="200" src="https://cdn.pixabay.com/photo/2016/05/24/18/49/suitcase-1412996_1280.jpg">
+
+<img align="center" width="300" height="200" src="https://cdn.pixabay.com/photo/2020/03/09/14/11/virus-4915859_1280.png">
 
 https://pixabay.com/images/id-1412996/
 
