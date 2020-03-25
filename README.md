@@ -18,8 +18,10 @@ https://www.kaggle.com/covid19
 <img align="right" width="300" height="200" src="https://blog.vsoftconsulting.com/hubfs/image-43.png">
 Named Entity Recognition (NER) is an application of Natural Language Processing (NLP) that processes and understands large amounts of unstructured human language. Also known as entity identification, entity chunking and entity extraction. NER extraction is the first step in answering questions, retrieving information and topic modeling. There are many models for implementing NER depending on the application need. Here we compare Spacy pre-trained and Stanford NER models.
 
-
-
+|      Model     |                             Description                            |                                           Install URL                                          |   |   |
+|:--------------:|:------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|---|---|
+| en_core_sci_sm | A full spaCy pipeline for biomedical data with a ~100k vocabulary. | https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.4/en_core_sci_sm-0.2.4.tar.gz |   |   |
+|                |                                                                    |                                                                                                
 
 
 
