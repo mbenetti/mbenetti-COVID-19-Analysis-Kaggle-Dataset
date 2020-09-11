@@ -13,7 +13,7 @@
 https://www.kaggle.com/covid19
 
 ***
-# Notebook list (in progress)
+# Notebook 
 
 ## 01 - NER - Named Entity Recognition
 #### COVID-19 NER - Named Entity Recognition.ipynb 
